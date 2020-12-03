@@ -32,7 +32,7 @@ Welcome to my repository! In here, you can find a log-in page that has been code
 
 2. This is due to the password being exposed in the login_page_site_v1.0.js file or later.
 
-3. Businesses and Companies can use this software only when a future patch has been rolled out to encrypt the passowrd and username.
+3. Businesses and Companies can use this software only when a future patch has been rolled out to encrypt the password and username.
 
 Signed,
 CodeAsherPlayz
