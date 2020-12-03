@@ -10,7 +10,9 @@ Welcome to my repository! In here, you can find a log-in page that has been code
 
 2. After downloading this software, please look through the entire code. For those that have a [] bracket, you will have to change it to fit you personally. This process should take about 5 minutes at most.
 
-3. Enjoy the code!
+3. Please refrain from using the software from v0.2. and earlier due to a critical issue (issue #6) on an CSS styling error.
+
+4. Enjoy the code.
 
 Signed,
 CodeAsherPlayz
