@@ -6,7 +6,7 @@
 | Version | Supported          |
 | ------- | ------------------ |
 | v0.1.   | :white_check_mark: |
-| v0.2.   | Coming Soon!       |
+| v0.2.   | :white_check_mark: |
 | v0.3.   | Coming Soon!       |
 | v0.4.   | Coming Soon!       |
 
