@@ -18,7 +18,7 @@ Welcome to my repository! In here, you can find a log-in page that has been code
 
 ### Changes to Username and Password
 
-1. Starting from v1.0, there is now a correct or wrong password.
+1. Starting from v1.0, there is now a password that is valid.
 
 2. Username: user_1
 
