@@ -7,8 +7,10 @@
 | ------- | ------------------ |
 | v0.1.   | :white_check_mark: |
 | v0.2.   | :white_check_mark: |
-| v0.3.   | Coming Soon!       |
-| v0.4.   | Coming Soon!       |
+| v0.2.1  | :white_check_mark:      |
+| v1.0-Beta   | :white_check_mark:       |
+| v1.0.  | Coming Soon!       |
+| v2.0-Beta   | Coming Soon!       |
 
 ## Reporting a Vulnerability
 
