@@ -8,9 +8,8 @@
 
 3. You are strictly prohibitied from releasing updates, packages.
 
-4. If you would like @CodeAsherPlayz to use your file in the next update, please download the latest version of this project. After that, email feedback.asherplayz@gmail.com.
+4. If you would like CodeAsherPlayz to use your file in the next update, please download the latest version of this project. After which, edit it to add functions you may want to see. Once you are done, start a issue and add the files in the issue.
 
-5. Please take the rules strictly as rule-breakers will be dealt with promptly.
 
 ## How to get contributing permission?
 
@@ -20,6 +19,6 @@
 
 ## Rule-Breaking
 
-1. If you have found someone breaking the community or contributing guidelines, please fill free to email business.asherplayz@gmail.com. Rule-breakers will risk having their contributor permissions removed or beiing banned from the project.
+1. If you have found someone breaking the community or contributing guidelines, please fill free to email business.asherplayz@gmail.com. Rule-breakers will risk having their contributor permissions removed or being banned from the project.
 
 ### Happy Coding!
