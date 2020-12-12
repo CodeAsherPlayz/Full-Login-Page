@@ -12,7 +12,9 @@ Welcome to my repository! In here, you can find a log-in page that has been code
 
 3. Please refrain from using the software from v0.2. and earlier due to a critical issue (issue #6) on an CSS styling error.
 
-4. Enjoy the code.
+4. Please follow the manual in order for the code to be executed.
+
+5. Enjoy the code.
 
 ***
 
