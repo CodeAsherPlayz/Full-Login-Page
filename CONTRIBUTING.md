@@ -10,6 +10,8 @@
 
 4. If you would like CodeAsherPlayz to use your file in the next update, please download the latest version of this project. After which, edit it to add functions you may want to see. Once you are done, start a issue and add the files in the issue.
 
+5. You are only allowed to add, edit or delete Javascript, HTML, CSS or Python scripts. Other languages are not supported in this repository. 
+
 
 ## How to get contributing permission?
 
