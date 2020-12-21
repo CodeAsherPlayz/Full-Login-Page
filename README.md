@@ -10,7 +10,7 @@ Welcome to my repository! In here, you can find a log-in page that has been code
 
 2. After downloading this software, please look through the entire code. You will have to change it to fit you personally. This process should take about 5 minutes at most.
 
-3. Please refrain from using the software from v0.2. and earlier due to a critical issue (issue #6) on an CSS styling error.
+3. Please refrain from using the software from v0.2. and earlier due to a critical issue (issue #6) on a CSS styling error.
 
 4. Please follow the manual in order for the code to be executed.
 
@@ -20,7 +20,7 @@ Welcome to my repository! In here, you can find a log-in page that has been code
 
 ### Changes to Username and Password
 
-1. Starting from v1.0, there is now a password that is valid.
+1. Starting from v1.0, there is now a correct and incorrect password.
 
 2. Username: user_1
 
